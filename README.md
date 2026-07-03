@@ -14,10 +14,11 @@ Associação e Composição: Relações estruturadas entre as classes `Ticket`, 
 
 - Modelagem UML
 O diagrama de classes foi estruturado no draw.io e representa a arquitetura do software
-![Diagrama UML](uml-diagrama.png)
+![Diagrama UML](Estacionamento-POO/docs/uml-diagrama.png)
 
 - Como Executar o Projeto
 1. Certifique-se de ter o Python 3 instalado.
-2. Abra o terminal na pasta do projeto e execute:
+2. Abra o terminal na raiz do repositório e execute os comandos:
    ```bash
+   cd Estacionamento-POO
    python src/main.py
